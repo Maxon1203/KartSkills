@@ -64,8 +64,8 @@ namespace KartSkills
             //var month = dateNow.Month;
             //var year = dateNow.Year;
            
-          
-            
+     
+            //       
             //    int textNum = Convert.ToInt32(mTBNomerKarti.Text);
             //    int textYear = Convert.ToInt32(mTBGodKarti.Text);
                 //if (textNum >= month && textYear >= year && textNum <= 12)
